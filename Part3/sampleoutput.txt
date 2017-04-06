@@ -1,0 +1,720 @@
+Epochs before converging: 138
+
+Final feature set:
+
+Dummy feature: Value 1
+
+Weight: -18.2696 (4 d.p)
+
+Sign: 0
+[5, 8] == true
+[7, 3] == true
+[4, 4] == false
+[4, 6] == false
+Weight: -29.7422 (4 d.p)
+
+Sign: 1
+[7, 3] == false
+[2, 4] == true
+[2, 2] == false
+[6, 9] == false
+Weight: -20.9408 (4 d.p)
+
+Sign: 0
+[4, 9] == true
+[8, 3] == false
+[7, 2] == false
+[5, 4] == true
+Weight: -20.7559 (4 d.p)
+
+Sign: 0
+[9, 0] == false
+[5, 4] == true
+[5, 0] == true
+[7, 7] == false
+Weight: 10.8188 (4 d.p)
+
+Sign: 1
+[0, 7] == false
+[2, 3] == false
+[6, 5] == true
+[8, 9] == false
+Weight: 15.3706 (4 d.p)
+
+Sign: 0
+[6, 3] == true
+[8, 6] == false
+[8, 4] == true
+[5, 8] == false
+Weight: -16.1437 (4 d.p)
+
+Sign: 0
+[2, 7] == false
+[2, 1] == true
+[1, 7] == true
+[8, 2] == false
+Weight: 9.7150 (4 d.p)
+
+Sign: 0
+[9, 5] == true
+[9, 0] == true
+[7, 6] == true
+[4, 0] == true
+Weight: 23.2873 (4 d.p)
+
+Sign: 1
+[6, 0] == false
+[4, 2] == false
+[4, 5] == true
+[4, 4] == false
+Weight: -11.0838 (4 d.p)
+
+Sign: 1
+[7, 0] == false
+[1, 3] == false
+[7, 6] == false
+[7, 5] == false
+Weight: 24.0083 (4 d.p)
+
+Sign: 0
+[0, 6] == false
+[6, 6] == false
+[1, 9] == true
+[4, 9] == true
+Weight: 9.4406 (4 d.p)
+
+Sign: 0
+[5, 6] == false
+[4, 1] == false
+[6, 6] == false
+[8, 8] == true
+Weight: 3.0313 (4 d.p)
+
+Sign: 1
+[9, 5] == true
+[2, 3] == false
+[4, 2] == false
+[3, 7] == false
+Weight: 6.9227 (4 d.p)
+
+Sign: 0
+[7, 7] == true
+[9, 6] == false
+[7, 9] == true
+[3, 6] == true
+Weight: 6.9621 (4 d.p)
+
+Sign: 0
+[7, 8] == true
+[2, 5] == true
+[6, 0] == true
+[0, 9] == true
+Weight: 0.8008 (4 d.p)
+
+Sign: 1
+[5, 6] == true
+[8, 7] == true
+[8, 9] == false
+[2, 9] == false
+Weight: -6.5631 (4 d.p)
+
+Sign: 0
+[5, 2] == false
+[1, 5] == false
+[9, 6] == true
+[6, 7] == false
+Weight: -3.1853 (4 d.p)
+
+Sign: 0
+[2, 7] == true
+[8, 5] == true
+[4, 1] == true
+[6, 9] == true
+Weight: -14.7848 (4 d.p)
+
+Sign: 0
+[4, 0] == true
+[4, 9] == true
+[9, 2] == false
+[0, 8] == false
+Weight: 1.9570 (4 d.p)
+
+Sign: 0
+[6, 5] == false
+[6, 9] == true
+[9, 8] == true
+[4, 6] == true
+Weight: -17.7839 (4 d.p)
+
+Sign: 0
+[7, 8] == true
+[8, 2] == true
+[6, 7] == false
+[9, 1] == true
+Weight: 18.3952 (4 d.p)
+
+Sign: 1
+[1, 2] == false
+[9, 5] == true
+[5, 4] == false
+[6, 0] == true
+Weight: -23.7011 (4 d.p)
+
+Sign: 0
+[6, 9] == true
+[3, 2] == true
+[0, 1] == true
+[3, 0] == true
+Weight: 0.4731 (4 d.p)
+
+Sign: 0
+[6, 3] == false
+[8, 1] == true
+[8, 3] == true
+[5, 9] == true
+Weight: -16.6226 (4 d.p)
+
+Sign: 0
+[4, 8] == false
+[6, 1] == false
+[6, 9] == true
+[3, 1] == false
+Weight: 5.6577 (4 d.p)
+
+Sign: 0
+[7, 5] == true
+[1, 0] == false
+[4, 3] == false
+[5, 4] == true
+Weight: -0.7431 (4 d.p)
+
+Sign: 1
+[6, 6] == false
+[3, 6] == false
+[6, 8] == false
+[8, 1] == false
+Weight: -4.2293 (4 d.p)
+
+Sign: 1
+[9, 9] == false
+[2, 7] == false
+[3, 9] == false
+[6, 2] == false
+Weight: -4.2071 (4 d.p)
+
+Sign: 1
+[3, 8] == true
+[0, 9] == false
+[6, 4] == false
+[8, 2] == true
+Weight: 7.8142 (4 d.p)
+
+Sign: 0
+[9, 9] == false
+[5, 7] == true
+[9, 4] == false
+[5, 3] == true
+Weight: -10.1527 (4 d.p)
+
+Sign: 1
+[8, 5] == false
+[5, 9] == false
+[9, 0] == true
+[6, 5] == false
+Weight: 13.4965 (4 d.p)
+
+Sign: 0
+[7, 1] == false
+[1, 6] == false
+[3, 4] == true
+[9, 6] == false
+Weight: 7.4890 (4 d.p)
+
+Sign: 0
+[7, 3] == true
+[4, 7] == false
+[4, 9] == false
+[0, 9] == true
+Weight: -0.7498 (4 d.p)
+
+Sign: 1
+[3, 3] == true
+[9, 0] == false
+[1, 3] == false
+[8, 4] == false
+Weight: -3.2465 (4 d.p)
+
+Sign: 0
+[5, 0] == true
+[3, 9] == true
+[1, 3] == false
+[1, 9] == true
+Weight: -1.7800 (4 d.p)
+
+Sign: 1
+[0, 4] == true
+[6, 4] == false
+[2, 3] == false
+[8, 9] == false
+Weight: 0.4855 (4 d.p)
+
+Sign: 0
+[5, 8] == true
+[3, 4] == true
+[8, 3] == false
+[3, 7] == false
+Weight: 12.7305 (4 d.p)
+
+Sign: 0
+[3, 6] == true
+[6, 5] == true
+[4, 7] == true
+[7, 4] == true
+Weight: 7.6733 (4 d.p)
+
+Sign: 0
+[7, 0] == true
+[2, 5] == true
+[4, 6] == false
+[9, 0] == true
+Weight: 12.0088 (4 d.p)
+
+Sign: 0
+[6, 1] == true
+[9, 0] == false
+[3, 8] == true
+[3, 1] == true
+Weight: -10.2657 (4 d.p)
+
+Sign: 1
+[0, 3] == false
+[8, 8] == true
+[1, 4] == false
+[8, 4] == false
+Weight: 28.0702 (4 d.p)
+
+Sign: 0
+[9, 7] == true
+[4, 8] == false
+[5, 2] == false
+[6, 2] == true
+Weight: 11.2765 (4 d.p)
+
+Sign: 0
+[7, 8] == true
+[5, 4] == false
+[4, 6] == true
+[7, 6] == false
+Weight: -15.6650 (4 d.p)
+
+Sign: 1
+[7, 1] == true
+[9, 0] == true
+[6, 0] == false
+[9, 9] == false
+Weight: -0.5336 (4 d.p)
+
+Sign: 0
+[9, 5] == true
+[9, 3] == true
+[5, 0] == true
+[3, 3] == true
+Weight: -1.3414 (4 d.p)
+
+Sign: 1
+[6, 1] == true
+[9, 9] == false
+[0, 1] == true
+[8, 9] == false
+Weight: -11.3293 (4 d.p)
+
+Sign: 0
+[8, 2] == false
+[7, 9] == false
+[6, 7] == true
+[9, 2] == true
+Weight: 8.4534 (4 d.p)
+
+Sign: 1
+[0, 8] == false
+[1, 8] == true
+[3, 7] == false
+[8, 6] == true
+Weight: 3.0494 (4 d.p)
+
+Sign: 0
+[4, 4] == true
+[7, 9] == false
+[1, 0] == true
+[6, 8] == true
+Weight: -6.3230 (4 d.p)
+
+Sign: 0
+[0, 3] == true
+[6, 3] == false
+[1, 1] == true
+[8, 7] == false
+Weight: -9.8083 (4 d.p)
+==================================
+          CROSS VALIDATION
+=================================
+Epochs before converging: 9
+
+Final feature set:
+
+Dummy feature: Value 1
+
+Weight: -2.2696 (4 d.p)
+
+Sign: 0
+[5, 8] == true
+[7, 3] == true
+[4, 4] == false
+[4, 6] == false
+Weight: -8.7422 (4 d.p)
+
+Sign: 0
+[7, 3] == false
+[2, 4] == true
+[2, 2] == false
+[6, 9] == false
+Weight: -0.9408 (4 d.p)
+
+Sign: 0
+[4, 9] == true
+[8, 3] == false
+[7, 2] == false
+[5, 4] == true
+Weight: -2.7559 (4 d.p)
+
+Sign: 0
+[9, 0] == false
+[5, 4] == true
+[5, 0] == true
+[7, 7] == false
+Weight: -0.1812 (4 d.p)
+
+Sign: 1
+[0, 7] == false
+[2, 3] == false
+[6, 5] == true
+[8, 9] == false
+Weight: -0.6294 (4 d.p)
+
+Sign: 0
+[6, 3] == true
+[8, 6] == false
+[8, 4] == true
+[5, 8] == false
+Weight: -0.1437 (4 d.p)
+
+Sign: 1
+[2, 7] == false
+[2, 1] == true
+[1, 7] == true
+[8, 2] == false
+Weight: 3.7150 (4 d.p)
+
+Sign: 0
+[9, 5] == true
+[9, 0] == true
+[7, 6] == true
+[4, 0] == true
+Weight: 1.2873 (4 d.p)
+
+Sign: 0
+[6, 0] == false
+[4, 2] == false
+[4, 5] == true
+[4, 4] == false
+Weight: -1.0838 (4 d.p)
+
+Sign: 1
+[7, 0] == false
+[1, 3] == false
+[7, 6] == false
+[7, 5] == false
+Weight: 2.0083 (4 d.p)
+
+Sign: 0
+[0, 6] == false
+[6, 6] == false
+[1, 9] == true
+[4, 9] == true
+Weight: -0.5594 (4 d.p)
+
+Sign: 0
+[5, 6] == false
+[4, 1] == false
+[6, 6] == false
+[8, 8] == true
+Weight: 2.0313 (4 d.p)
+
+Sign: 1
+[9, 5] == true
+[2, 3] == false
+[4, 2] == false
+[3, 7] == false
+Weight: 0.9227 (4 d.p)
+
+Sign: 0
+[7, 7] == true
+[9, 6] == false
+[7, 9] == true
+[3, 6] == true
+Weight: 0.9621 (4 d.p)
+
+Sign: 0
+[7, 8] == true
+[2, 5] == true
+[6, 0] == true
+[0, 9] == true
+Weight: -0.1992 (4 d.p)
+
+Sign: 0
+[5, 6] == true
+[8, 7] == true
+[8, 9] == false
+[2, 9] == false
+Weight: -2.5631 (4 d.p)
+
+Sign: 1
+[5, 2] == false
+[1, 5] == false
+[9, 6] == true
+[6, 7] == false
+Weight: 1.8147 (4 d.p)
+
+Sign: 0
+[2, 7] == true
+[8, 5] == true
+[4, 1] == true
+[6, 9] == true
+Weight: -1.7848 (4 d.p)
+
+Sign: 0
+[4, 0] == true
+[4, 9] == true
+[9, 2] == false
+[0, 8] == false
+Weight: 1.9570 (4 d.p)
+
+Sign: 0
+[6, 5] == false
+[6, 9] == true
+[9, 8] == true
+[4, 6] == true
+Weight: -1.7839 (4 d.p)
+
+Sign: 0
+[7, 8] == true
+[8, 2] == true
+[6, 7] == false
+[9, 1] == true
+Weight: 4.3952 (4 d.p)
+
+Sign: 0
+[1, 2] == false
+[9, 5] == true
+[5, 4] == false
+[6, 0] == true
+Weight: -10.7011 (4 d.p)
+
+Sign: 0
+[6, 9] == true
+[3, 2] == true
+[0, 1] == true
+[3, 0] == true
+Weight: 0.4731 (4 d.p)
+
+Sign: 0
+[6, 3] == false
+[8, 1] == true
+[8, 3] == true
+[5, 9] == true
+Weight: -1.6226 (4 d.p)
+
+Sign: 1
+[4, 8] == false
+[6, 1] == false
+[6, 9] == true
+[3, 1] == false
+Weight: 1.6577 (4 d.p)
+
+Sign: 0
+[7, 5] == true
+[1, 0] == false
+[4, 3] == false
+[5, 4] == true
+Weight: -2.7431 (4 d.p)
+
+Sign: 1
+[6, 6] == false
+[3, 6] == false
+[6, 8] == false
+[8, 1] == false
+Weight: -4.2293 (4 d.p)
+
+Sign: 1
+[9, 9] == false
+[2, 7] == false
+[3, 9] == false
+[6, 2] == false
+Weight: -1.2071 (4 d.p)
+
+Sign: 0
+[3, 8] == true
+[0, 9] == false
+[6, 4] == false
+[8, 2] == true
+Weight: -1.1858 (4 d.p)
+
+Sign: 1
+[9, 9] == false
+[5, 7] == true
+[9, 4] == false
+[5, 3] == true
+Weight: -1.1527 (4 d.p)
+
+Sign: 1
+[8, 5] == false
+[5, 9] == false
+[9, 0] == true
+[6, 5] == false
+Weight: 2.4965 (4 d.p)
+
+Sign: 0
+[7, 1] == false
+[1, 6] == false
+[3, 4] == true
+[9, 6] == false
+Weight: 1.4890 (4 d.p)
+
+Sign: 0
+[7, 3] == true
+[4, 7] == false
+[4, 9] == false
+[0, 9] == true
+Weight: 6.2502 (4 d.p)
+
+Sign: 1
+[3, 3] == true
+[9, 0] == false
+[1, 3] == false
+[8, 4] == false
+Weight: -0.2465 (4 d.p)
+
+Sign: 0
+[5, 0] == true
+[3, 9] == true
+[1, 3] == false
+[1, 9] == true
+Weight: 0.2200 (4 d.p)
+
+Sign: 1
+[0, 4] == true
+[6, 4] == false
+[2, 3] == false
+[8, 9] == false
+Weight: 6.4855 (4 d.p)
+
+Sign: 0
+[5, 8] == true
+[3, 4] == true
+[8, 3] == false
+[3, 7] == false
+Weight: 4.7305 (4 d.p)
+
+Sign: 0
+[3, 6] == true
+[6, 5] == true
+[4, 7] == true
+[7, 4] == true
+Weight: 2.6733 (4 d.p)
+
+Sign: 0
+[7, 0] == true
+[2, 5] == true
+[4, 6] == false
+[9, 0] == true
+Weight: -0.9912 (4 d.p)
+
+Sign: 0
+[6, 1] == true
+[9, 0] == false
+[3, 8] == true
+[3, 1] == true
+Weight: -5.2657 (4 d.p)
+
+Sign: 1
+[0, 3] == false
+[8, 8] == true
+[1, 4] == false
+[8, 4] == false
+Weight: 6.0702 (4 d.p)
+
+Sign: 1
+[9, 7] == true
+[4, 8] == false
+[5, 2] == false
+[6, 2] == true
+Weight: 6.2765 (4 d.p)
+
+Sign: 0
+[7, 8] == true
+[5, 4] == false
+[4, 6] == true
+[7, 6] == false
+Weight: -4.6650 (4 d.p)
+
+Sign: 1
+[7, 1] == true
+[9, 0] == true
+[6, 0] == false
+[9, 9] == false
+Weight: 4.4664 (4 d.p)
+
+Sign: 0
+[9, 5] == true
+[9, 3] == true
+[5, 0] == true
+[3, 3] == true
+Weight: -1.3414 (4 d.p)
+
+Sign: 0
+[6, 1] == true
+[9, 9] == false
+[0, 1] == true
+[8, 9] == false
+Weight: -0.3293 (4 d.p)
+
+Sign: 0
+[8, 2] == false
+[7, 9] == false
+[6, 7] == true
+[9, 2] == true
+Weight: -1.5466 (4 d.p)
+
+Sign: 0
+[0, 8] == false
+[1, 8] == true
+[3, 7] == false
+[8, 6] == true
+Weight: -3.9506 (4 d.p)
+
+Sign: 0
+[4, 4] == true
+[7, 9] == false
+[1, 0] == true
+[6, 8] == true
+Weight: 1.6770 (4 d.p)
+
+Sign: 1
+[0, 3] == true
+[6, 3] == false
+[1, 1] == true
+[8, 7] == false
+Weight: 2.1917 (4 d.p)
+
+25.0/50.0
+Cross validation accuracy: 50.0%

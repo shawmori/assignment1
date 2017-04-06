@@ -1,0 +1,227 @@
+Choose a value for k: 3
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-setosa
+Classification: Iris-setosa
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-virginica
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-versicolor
+Classification: Iris-versicolor
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-versicolor
+
+Label: Iris-virginica
+Classification: Iris-versicolor
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+Label: Iris-virginica
+Classification: Iris-virginica
+
+96.0% correct.
